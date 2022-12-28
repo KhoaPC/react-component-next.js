@@ -1,0 +1,18 @@
+/* input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+} */
+
+.container {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+}
+
+.navbar {
+  height: 100%;
+  box-shadow: 1px 0 1px 0px #999;
+  /* margin-top: 48px; */
+  padding-right: 40px;
+}
